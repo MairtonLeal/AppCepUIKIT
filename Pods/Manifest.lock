@@ -1,0 +1,30 @@
+PODS:
+  - CocoaDebug (1.7.7)
+  - RxCocoa (6.6.0):
+    - RxRelay (= 6.6.0)
+    - RxSwift (= 6.6.0)
+  - RxRelay (6.6.0):
+    - RxSwift (= 6.6.0)
+  - RxSwift (6.6.0)
+
+DEPENDENCIES:
+  - CocoaDebug
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - CocoaDebug
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  CocoaDebug: b38d31464b91a9775928f8667d114db07b136565
+  RxCocoa: 44a80de90e25b739b5aeaae3c8c371a32e3343cc
+  RxRelay: 45eaa5db8ee4fb50e5ebd57deec0159e97fa51e6
+  RxSwift: a4b44f7d24599f674deebd1818eab82e58410632
+
+PODFILE CHECKSUM: 2015a37eef13590620c6b725bbb587495042c234
+
+COCOAPODS: 1.12.1
